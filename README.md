@@ -35,7 +35,7 @@ Open your Command Prompt (CMD) or PowerShell and run:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/Aricode2005/Ice-Shooter.git](https://github.com/Aricode2005/Ice-Shooter.git)
+git clone https://github.com/Aricode2005/Ice-Shooter.git
 
 # Enter the project folder
 cd Ice-Shooter
