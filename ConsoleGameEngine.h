@@ -1,11 +1,9 @@
 #pragma once
 
-// 1. Force UNICODE before anything else is loaded
 #define UNICODE
 
 #pragma comment(lib, "winmm.lib")
 
-// 2. All required C++ and Windows libraries (no duplicates)
 #include <windows.h>
 #include <iostream>
 #include <chrono>
