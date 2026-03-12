@@ -41,7 +41,7 @@ git clone [https://github.com/Aricode2005/Ice-Shooter.git](https://github.com/Ar
 cd Ice-Shooter
 
 # Compile the source code
-g++ Asteroids.cpp -o IceShooter.exe -luser32 -lgdi32 -lwinmm
+g++ IceShooter.cpp -o IceShooter.exe -luser32 -lgdi32 -lwinmm
 
 # Run the game
 ./IceShooter.exe
